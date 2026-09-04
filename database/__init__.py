@@ -1,0 +1,1 @@
+"""Database package — schema setup, connection, and seed data."""
